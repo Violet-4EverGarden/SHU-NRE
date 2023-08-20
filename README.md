@@ -1,4 +1,9 @@
-# SHU-NRE
-Named Relation Extraction for material publications of superalloy
-## 实体关系类型定义
-实体关系定义：实体关系定义_新.md + 实体关系定义_新.assets(图像文件)
+# SHU智能信息处理实验室
+材料文本挖掘小组：从海量材料科学文献中自动挖掘可用、可信、可解释的领域知识并辅助下游预测任务,实现AI赋能材料科学研究.
+## 1. 实体关系类型定义
+高温合金材料实体关系类型定义及数据标注说明（已更新）
+Nasicon型固态电解质材料实体关系类型定义
+## 2. NER Model
+论文接收后开源
+## 3. Joint Model
+论文接收后开源
